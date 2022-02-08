@@ -1,0 +1,24 @@
+PODS:
+  - ObjectMapper (4.2.0)
+  - RBSManager (0.4):
+    - ObjectMapper (~> 4.2)
+    - Starscream (~> 3.1.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - RBSManager
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+    - RBSManager
+    - Starscream
+
+SPEC CHECKSUMS:
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RBSManager: e1b866d98e5da7a2da1a6195f01441a4d6c900e3
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 2d56243e33b93b5819ffe497e46528c412f14968
+
+COCOAPODS: 1.10.1
